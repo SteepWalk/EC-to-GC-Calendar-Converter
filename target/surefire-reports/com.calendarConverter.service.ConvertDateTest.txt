@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.calendarConverter.service.ConvertDateTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.677 s -- in com.calendarConverter.service.ConvertDateTest

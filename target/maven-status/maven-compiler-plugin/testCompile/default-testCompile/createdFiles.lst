@@ -1,0 +1,4 @@
+com\calendarConverter\service\ConvertDateTest.class
+com\calendarConverter\utility\UtilityTest.class
+com\calendarConverter\utility\GCOperationsTest.class
+com\calendarConverter\utility\ECOperationsTest.class
