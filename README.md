@@ -6,7 +6,7 @@
 
   <h3> How to: </h3>
   <ul>
-    <li>Type the date in the given field (in either of the fields labeled GC and EC) and the converted date will automatically appear in the adjucent field.</li>
+    <li>Type the date in the given field (in either of the fields labeled "Ethiopian Calendar" and "Gregorian Calendar" on the left and right, respectively) and the converted date will automatically appear in the adjucent field.</li>
     <li>The corresponding day of week will also automatically displayed in the box below the fields.</li>
     <li>By choosing one of "Add" and "Subtact" radio options, insert a whole number of your desire in the textfield and press "Perform" and the calcuated date will be updated in the date fields.</li>
   </ul>
